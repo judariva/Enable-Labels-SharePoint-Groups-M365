@@ -96,5 +96,3 @@ Esta guía te permitirá habilitar de manera efectiva las etiquetas para Grupos 
 - [Azure Active Directory Cmdlets](https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/groups-settings-cmdlets)
 
 ---
-
-*Guía elaborada por [Tu Nombre o Alias de GitHub]. Se agradecen contribuciones y sugerencias.*
